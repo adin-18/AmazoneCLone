@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "493944252950",
+    "project_id": "eclone-58ff0",
+    "storage_bucket": "eclone-58ff0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493944252950:android:78cf0e9577c70755092337",
+        "android_client_info": {
+          "package_name": "com.example.amazoneclone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1TAlUHgNzHvFEZsbgcOBw_FduW9MFIRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
